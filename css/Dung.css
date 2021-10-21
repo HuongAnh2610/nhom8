@@ -1,0 +1,70 @@
+.Group6 {
+  height: 500px;
+  background: url("../images/h24.png") no-repeat; }
+  .Group6 .title {
+    float: right; }
+    .Group6 .title h2 {
+      color: #DEB37E;
+      margin-top: 150px;
+      margin-right: 50px;
+      font-size: 70px; }
+    .Group6 .title h1 {
+      color: #54524f;
+      font-size: 50px; }
+
+.Group7 {
+  background: url("../images/h44.png") no-repeat;
+  height: 400px; }
+  .Group7 .container {
+    height: 200px; }
+    .Group7 .container .row {
+      margin-top: 50px; }
+      .Group7 .container .row h3 {
+        color: #DEB37E;
+        font-size: 30px; }
+      .Group7 .container .row p {
+        margin-top: 20px;
+        font-size: 15px; }
+    .Group7 .container .title {
+      height: 300px;
+      margin-top: 50px; }
+      .Group7 .container .title h1 {
+        font-size: 50px; }
+
+.Group8 {
+  width: 100%;
+  height: 300px;
+  background: url("../images/h33.png") no-repeat; }
+  .Group8 .title h1 {
+    margin-top: 50px;
+    font-size: 40px;
+    color: #FFF; }
+  .Group8 .title input {
+    width: 300px;
+    height: 50px;
+    border-radius: 25px; }
+  .Group8 .title .btn {
+    width: 100px;
+    height: 50px;
+    boder-radius: 25px; }
+
+.Group9 {
+  background: url("../images/h27.png") no-repeat; }
+  .Group9 .container .row {
+    margin-top: 100px; }
+  .Group9 .container .title1 {
+    color: #FFF; }
+  .Group9 .container .title2 {
+    color: #FFF; }
+    .Group9 .container .title2 a {
+      color: #FFF; }
+  .Group9 .container .title3 {
+    color: #FFF; }
+    .Group9 .container .title3 a {
+      color: #FFF; }
+  .Group9 .container .title4 {
+    color: #FFF; }
+    .Group9 .container .title4 a {
+      color: #FFF; }
+
+/*# sourceMappingURL=Dung.css.map */
