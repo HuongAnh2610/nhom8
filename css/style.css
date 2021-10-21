@@ -1,0 +1,195 @@
+.nhom8 {
+  background: url("../images/h21.png") no-repeat; }
+
+.Group1 a {
+  text-decoration: none;
+  color: #A0522D;
+  font-size: 20px;
+  margin-right: 20px; }
+
+.Group2 {
+  height: 800px;
+  background: url("../images/h11.png") no-repeat; }
+  .Group2 .title {
+    margin-left: 100px; }
+    .Group2 .title h1 {
+      margin-top: 300px;
+      color: #deb37d;
+      font-size: 50px; }
+    .Group2 .title h6 {
+      font-size: 30px;
+      color: #74726f; }
+    .Group2 .title .btn {
+      margin-top: 30px;
+      width: 150px;
+      height: 50px;
+      border-radius: 12px solid black;
+      background: white; }
+    .Group2 .title p {
+      font-size: 20px; }
+
+.Group3 {
+  background: url("../images/h22.png") no-repeat; }
+  .Group3 .container .row .title1 {
+    width: 30%; }
+    .Group3 .container .row .title1 img {
+      width: 100%;
+      height: 300px; }
+    .Group3 .container .row .title1 .noidung {
+      width: 100%;
+      height: 100px;
+      background: #7f7770;
+      color: #FFF; }
+      .Group3 .container .row .title1 .noidung h3 {
+        margin-left: 20px; }
+      .Group3 .container .row .title1 .noidung p {
+        margin-left: 20px; }
+  .Group3 .container .row .title2 {
+    width: 30%;
+    margin-left: 35px; }
+    .Group3 .container .row .title2 img {
+      width: 100%;
+      height: 300px; }
+    .Group3 .container .row .title2 .noidung {
+      width: 100%;
+      height: 100px;
+      color: #FFF;
+      background: #7f7770; }
+      .Group3 .container .row .title2 .noidung h3 {
+        margin-left: 20px; }
+      .Group3 .container .row .title2 .noidung p {
+        margin-left: 20px; }
+  .Group3 .container .row .title3 {
+    width: 30%;
+    margin-left: 35px; }
+    .Group3 .container .row .title3 img {
+      width: 100%;
+      height: 300px; }
+    .Group3 .container .row .title3 .noidung {
+      color: #FFF;
+      width: 100%;
+      height: 100px;
+      background: #7f7770; }
+      .Group3 .container .row .title3 .noidung h3 {
+        margin-left: 20px; }
+      .Group3 .container .row .title3 .noidung p {
+        margin-left: 20px; }
+  .Group3 h1 {
+    color: #deb37d;
+    font-size: 50px; }
+  .Group3 .title .btn {
+    margin-top: 20px;
+    background: #7f7770; }
+
+.Group4 {
+  height: 1000px;
+  margin-top: 100px; }
+  .Group4 .img {
+    float: left;
+    width: 50%;
+    height: 500px; }
+    .Group4 .img img {
+      width: 100%;
+      height: 500px; }
+  .Group4 .title {
+    float: left;
+    width: 50%;
+    height: 500px;
+    background: #696969; }
+    .Group4 .title h1 {
+      margin-top: 50px;
+      margin-left: 50px;
+      color: #FFFFFF; }
+    .Group4 .title p {
+      margin-left: 50px;
+      color: #FFFFFF; }
+    .Group4 .title .btn {
+      margin-top: 30px;
+      width: 200px;
+      height: 50px;
+      border-radius: 200px solid black;
+      background: #F4A460;
+      margin-left: 50px; }
+
+.Group5 {
+  height: 500px;
+  background: url("../images/H23.png") no-repeat; }
+  .Group5 .title {
+    color: #FFFFFF; }
+    .Group5 .title h1 {
+      margin-top: 100px;
+      font-size: 50px; }
+    .Group5 .title p {
+      margin-top: 20px;
+      font-size: 25px; }
+
+.Group6 {
+  height: 500px;
+  background: url("../images/h24.png") no-repeat; }
+  .Group6 .title {
+    float: right; }
+    .Group6 .title h2 {
+      color: #DEB37E;
+      margin-top: 150px;
+      margin-right: 50px;
+      font-size: 70px; }
+    .Group6 .title h1 {
+      color: #54524f;
+      font-size: 50px; }
+
+.Group7 {
+  background: url("../images/h44.png") no-repeat;
+  height: 400px; }
+  .Group7 .container {
+    height: 200px; }
+    .Group7 .container .row {
+      margin-top: 50px; }
+      .Group7 .container .row h3 {
+        color: #DEB37E;
+        font-size: 30px; }
+      .Group7 .container .row p {
+        margin-top: 20px;
+        font-size: 15px; }
+    .Group7 .container .title {
+      height: 300px;
+      margin-top: 50px; }
+      .Group7 .container .title h1 {
+        font-size: 50px; }
+
+.Group8 {
+  width: 100%;
+  height: 300px;
+  background: url("../images/h33.png") no-repeat; }
+  .Group8 .title h1 {
+    margin-top: 50px;
+    font-size: 40px;
+    color: #FFF; }
+  .Group8 .title input {
+    width: 300px;
+    height: 50px;
+    border-radius: 25px; }
+  .Group8 .title .btn {
+    width: 100px;
+    height: 50px;
+    boder-radius: 25px; }
+
+.Group9 {
+  background: url("../images/h27.png") no-repeat; }
+  .Group9 .container .row {
+    margin-top: 100px; }
+  .Group9 .container .title1 {
+    color: #FFF; }
+  .Group9 .container .title2 {
+    color: #FFF; }
+    .Group9 .container .title2 a {
+      color: #FFF; }
+  .Group9 .container .title3 {
+    color: #FFF; }
+    .Group9 .container .title3 a {
+      color: #FFF; }
+  .Group9 .container .title4 {
+    color: #FFF; }
+    .Group9 .container .title4 a {
+      color: #FFF; }
+
+/*# sourceMappingURL=style.css.map */
